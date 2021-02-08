@@ -7,12 +7,12 @@ MetacommunityDynamics.jl Manuscript -- outline
 Introduction
 Methods
     Outline of theoretical framework used to represent metacommunity dynamics
-        - Species pool 
-        - Landscape anddispersal structure 
+        - Species pool
+        - Landscape and dispersal structure
         - Metacommunity Tensor
-        - Abstract measurement 
-        - Abstract dynamics model 
-    Outline of software structure 
+        - Abstract measurement
+        - Abstract dynamics model
+    Outline of software structure
 Results
     Use-case examples
 Discussion
